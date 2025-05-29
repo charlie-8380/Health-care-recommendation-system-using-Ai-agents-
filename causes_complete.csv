@@ -1,0 +1,103 @@
+Disease,Causes
+AIDS,Human Immunodeficiency Virus (HIV) infection
+Acne,"Excess sebum, clogged pores, bacteria, hormonal changes"
+Alcoholic Hepatitis,Excessive alcohol consumption
+Allergic Reaction,"Exposure to allergens (food, pollen, drugs, insect stings)"
+Allergy,Immune system response to allergens
+Anxiety Disorder,"Genetics, stress, brain chemistry, traumatic events"
+Appendicitis,"Blockage of appendix opening, infection"
+Arthritis,"Inflammation, autoimmune disease, wear and tear, infections"
+Asthma,"Allergens, pollution, respiratory infections, exercise"
+Bell’s Palsy,"Viral infections (e.g., herpes simplex virus)"
+Bronchial Asthma,"Allergens, air pollution, cold air, respiratory infections"
+Bronchitis (Acute),"Viral or bacterial infections, smoking, air pollutants"
+COVID-19,SARS-CoV-2 virus infection
+Celiac Disease,Autoimmune response to gluten
+Cervical Spondylosis,"Aging, wear and tear of cervical spine discs"
+Chickenpox,Varicella-zoster virus infection
+Cholecystitis,"Gallstones blocking bile ducts, infections"
+Chronic Bronchitis,"Long-term smoking, air pollution, infections"
+Chronic Cholestasis,"Bile flow obstruction (gallstones, tumors, liver diseases)"
+Chronic Fatigue Syndrome,"Unknown; viral infections, stress, immune system issues suspected"
+Common Cold,"Rhinoviruses, other respiratory viruses"
+Conjunctivitis,"Viruses, bacteria, allergens, irritants"
+Coronary Artery Disease,"Plaque buildup, high cholesterol, hypertension, smoking"
+Crohn’s Disease,"Autoimmune response, genetics, environmental factors"
+Cystic Fibrosis,Genetic mutation affecting mucus and sweat glands
+Deep Vein Thrombosis,"Blood clots from immobility, surgery, trauma, clotting disorders"
+Dengue,Dengue virus spread by Aedes mosquitoes
+Dermatitis,"Allergens, irritants, genetic factors, immune response"
+Diabetes,Type 1: Autoimmune destruction of insulin cells; Type 2: Insulin resistance
+Dimorphic Hemorrhoids (Piles),"Straining during bowel movements, chronic constipation"
+Diverticulitis,Inflammation/infection of diverticula in colon
+Drug Reaction,Allergic or toxic response to medications
+Eczema,"Genetic factors, allergens, stress, irritants"
+Endometriosis,Abnormal growth of uterine tissue outside the uterus
+Epilepsy,"Brain injury, genetics, infections, unknown causes"
+Fibromyalgia,"Unknown; stress, genetics, infections suspected"
+Fungal Infection,"Overgrowth of fungi (yeast, dermatophytes)"
+GERD,"Weak lower esophageal sphincter, obesity, certain foods"
+Gallstones,Cholesterol or bilirubin crystallization in gallbladder
+Gastritis,"H. pylori infection, NSAIDs, alcohol, stress"
+Gastroenteritis,"Viral (norovirus), bacterial (E. coli), or parasitic infections"
+Glaucoma,"Increased eye pressure, genetics, aging"
+Gout,Excess uric acid forming crystals in joints
+Heart Attack,Coronary artery blockage from plaque rupture or clots
+Heat Exhaustion,"Prolonged exposure to heat, dehydration"
+Hemophilia,Genetic mutation affecting blood clotting factors
+Hepatitis A,Hepatitis A virus (contaminated food/water)
+Hepatitis B,"Hepatitis B virus (blood, sexual contact)"
+Hepatitis C,Hepatitis C virus (bloodborne transmission)
+Hepatitis D,Hepatitis D virus (requires Hepatitis B infection)
+Hepatitis E,Hepatitis E virus (contaminated food/water)
+Herniated Disc,"Injury, heavy lifting, aging, disc degeneration"
+Herpes Zoster (Shingles),Reactivation of varicella-zoster virus
+Hodgkin’s Lymphoma,"Genetic mutations, Epstein-Barr virus (EBV) infection"
+Hyperlipidemia,"High-fat diet, genetics, obesity, sedentary lifestyle"
+Hypertension,"High salt intake, stress, obesity, genetics"
+Hyperthyroidism,"Autoimmune diseases (Graves’), thyroid nodules"
+Hypoglycemia,"Excess insulin, skipping meals, medications"
+Hypothyroidism,"Autoimmune diseases (Hashimoto’s), iodine deficiency"
+Impetigo,"Bacterial infections (Staphylococcus, Streptococcus)"
+Indigestion,"Overeating, fatty foods, stress, GERD"
+Infectious Mononucleosis,Epstein-Barr virus infection
+Influenza,Influenza virus infection
+Interstitial Cystitis,"Unknown; bladder lining defects, autoimmune factors"
+Iron Deficiency,"Poor diet, blood loss, poor absorption"
+Iron Deficiency Anemia,"Chronic blood loss, inadequate iron intake"
+Jaundice,"Liver diseases, bile duct obstruction, hemolysis"
+Lupus (SLE),Autoimmune response affecting multiple organs
+Major Depressive Disorder,"Genetic, biochemical, environmental factors"
+Malaria,Plasmodium parasite via Anopheles mosquito bites
+Measles,Measles virus (highly contagious)
+Meningitis (Bacterial),"Bacterial infections (Neisseria meningitidis, Streptococcus pneumoniae)"
+Menstrual Cramps,"Prostaglandin overproduction, uterine contractions"
+Migraine,"Genetic factors, stress, hormonal changes, triggers (foods, light)"
+Morning Sickness,Pregnancy-related hormonal changes
+Motion Sickness,Sensory conflict between eyes and inner ear
+Multiple Sclerosis,Autoimmune attack on nervous system myelin
+Muscle Overuse,"Repetitive strain, excessive exercise"
+Muscle Strain,Overstretching or tearing of muscle fibers
+Osteoarthritis,"Joint wear and tear, aging, joint injuries"
+Panic Disorder,"Genetics, stress, abnormal brain function"
+Paralysis (Brain Hemorrhage),"Brain bleeding from trauma, hypertension, aneurysm rupture"
+Parkinson’s Disease,Dopamine-producing neuron degeneration
+Peptic Ulcer Disease,"H. pylori infection, NSAIDs, alcohol"
+Pneumonia,"Bacterial, viral, or fungal lung infections"
+Polycystic Ovary Syndrome (PCOS),"Hormonal imbalance, insulin resistance"
+Psoriasis,Autoimmune response triggering skin cell overproduction
+Respiratory Infection,"Viral or bacterial pathogens (cold, flu, pneumonia)"
+Rheumatoid Arthritis,Autoimmune attack on joints
+Sciatica,"Compression of sciatic nerve (herniated disc, spinal stenosis)"
+Sleep Apnea,"Airway obstruction, obesity, enlarged tonsils"
+Strep Throat,Streptococcus pyogenes bacterial infection
+Tension Headache,"Stress, muscle tension, poor posture"
+Thyroid Disorder,"Autoimmune disease, iodine imbalance, nodules"
+Tonsillitis,Viral or bacterial infection of tonsils
+Tuberculosis,Mycobacterium tuberculosis infection
+Typhoid,Salmonella typhi via contaminated food/water
+Urinary Tract Infection,Bacterial invasion of urinary tract (E. coli common)
+Varicose Veins,"Weak or damaged vein valves, prolonged standing"
+Vertigo (Paroxysmal Positional Vertigo),"Inner ear disturbances, head injuries"
+Vision Fatigue,"Prolonged screen time, poor lighting, eye strain"
+Whooping Cough (Pertussis),Bordetella pertussis bacterial infection
